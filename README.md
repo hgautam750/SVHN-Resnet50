@@ -1,10 +1,10 @@
 # SVHN-Resnet50
 ######### Sample Output Images ##############################
 
-<img src="samples/samples/test10.png" height="100" width="150">
-<img src="samples/samples/test36.png" height="100" width="150">
-<img src="samples/samples/test70.png" height="100" width="150">
-<img src="samples/samples/test82.png" height="100" width="150">
+<img src="https://raw.githubusercontent.com/hgautam750/SVHN-Resnet50/master/retinanet-svhn/samples/samples/test10.png">
+<img src="https://raw.githubusercontent.com/hgautam750/SVHN-Resnet50/master/retinanet-svhn/samples/samples/test36.png">
+<img src="https://raw.githubusercontent.com/hgautam750/SVHN-Resnet50/master/retinanet-svhn/samples/samples/test70.png">
+<img src="https://raw.githubusercontent.com/hgautam750/SVHN-Resnet50/master/retinanet-svhn/samples/samples/test82.png">
 
 ## Usage for python code
 
