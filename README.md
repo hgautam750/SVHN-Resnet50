@@ -1,5 +1,5 @@
 # SVHN-Resnet50
-######### Sample Output Images ##############################
+# Sample Output Images #
 
 <img src="https://raw.githubusercontent.com/hgautam750/SVHN-Resnet50/master/retinanet-svhn/samples/samples/test10.png">
 <img src="https://raw.githubusercontent.com/hgautam750/SVHN-Resnet50/master/retinanet-svhn/samples/samples/test36.png">
